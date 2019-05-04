@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "repository": "https://github.com/cassiolpaixao90/create-node-app.git",
   "author": "Cássio Paixão <cassiopaixaoti@gmail.com>",
+  "description": "Create a modern node app by running one command",
   "license": "MIT",
   "husky": {
     "hooks": {
