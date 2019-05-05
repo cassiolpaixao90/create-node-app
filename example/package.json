@@ -1,0 +1,13 @@
+{
+  "name": "node-scripts-examples",
+  "version": "0.8.3",
+  "scripts": {
+    "start": "node ./build/main.js",
+    "dev": "node-scripts start",
+    "build": "node-scripts build"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

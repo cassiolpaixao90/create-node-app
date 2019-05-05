@@ -4,7 +4,7 @@
   "description": "Configuration and scripts for Create Node App.",
   "license": "MIT",
   "bin": {
-    "node-scripts": "./bin/node-scripts.js"
+    "node-scripts": "./bin/init.js"
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,13 @@
   ],
   "devDependencies": {
     "eslint": "^5.16.0",
-    "prettier": "^1.17.0"
+    "friendly-errors-webpack-plugin": "^1.7.0",
+    "json-loader": "^0.5.7",
+    "nodemon": "^1.19.0",
+    "prettier": "^1.17.0",
+    "ramda": "^0.26.1",
+    "source-map-support": "^0.5.12",
+    "webpack": "^4.30.0",
+    "webpack-node-externals": "^1.7.2"
   }
 }
